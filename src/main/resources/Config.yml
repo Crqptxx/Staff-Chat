@@ -1,0 +1,19 @@
+# Plugin gemaakt door: Crqptx
+# Github: Falterrie
+
+
+Version: "1.0"
+
+Prefix: "&8StaffChat &0&l> "
+ColorBeforeName: "&4"
+ColorAfterName: "&4"
+
+
+
+No Permission: "&4ERROR: Je hebt hier geen permissie voor!"
+
+
+Permissions:
+  - sc.use
+  - sc.see
+  - sc.reload

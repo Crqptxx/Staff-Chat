@@ -1,0 +1,13 @@
+name: StaffChat
+version: '${project.version}'
+main: me.crqptx.main.StaffChat
+authors: [ Crqptx ]
+description: Staffchat plugin
+commands:
+  sc:
+    description: Staffchat command
+    usage: /<command> <text>
+    aliases: [ staffchat ]
+  screload:
+    description: Reloads the plugin
+    usage: /<command>
